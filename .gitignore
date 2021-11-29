@@ -1,0 +1,10 @@
+/nbproject/
+/raw/
+/test/
+/dist/
+
+
+build.xml
+manifest.mf
+
+**/!README.TXT
