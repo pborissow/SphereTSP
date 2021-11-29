@@ -21,3 +21,8 @@ At the time of this writing, applets are no longer supported by most modern brow
 difficult to see how the SphereTSP actually works. So I downloaded the class files and decompiled
 the source so I can do my own build. The software found in this repository is an artifact of that
 effort.
+
+
+## License
+SphereTSP is an open source project released under an [MIT License](LICENSE). Feel free to use the code and information 
+found here as you like. This software comes with no guarantees or warranties. You may use this software in any open source or commercial project.
