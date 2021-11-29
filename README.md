@@ -1,8 +1,12 @@
 # SphereTSP
 
-Used to solve the traveling salesman problem (TSP) on a 3D sphere.
+Java-based interactive visualization tool used to solve the traveling salesman problem (TSP) on a 3D sphere. 
+Employs a genetic algorithm-based solution for TSP where all points are on the surface of a sphere. 
 
-# Credit
+![image](https://user-images.githubusercontent.com/10224874/143911286-83d72102-f0e5-446a-a6f6-632c4bba373e.png)
+
+
+## Credit
 
 The SphereTSP code was developed by researchers at the University of Ege in Bornova-Izmir, Turkey
 and published in the following paper:
